@@ -1,0 +1,7 @@
+C:\Users\irene\Documents\Visual Studio 2013\Projects\MedicionesService\MedicionesService\bin\MedicionesService.dll.config
+C:\Users\irene\Documents\Visual Studio 2013\Projects\MedicionesService\MedicionesService\bin\MedicionesService.dll
+C:\Users\irene\Documents\Visual Studio 2013\Projects\MedicionesService\MedicionesService\bin\MedicionesService.pdb
+C:\Users\irene\Documents\Visual Studio 2013\Projects\MedicionesService\MedicionesService\bin\MySql.Data.dll
+C:\Users\irene\Documents\Visual Studio 2013\Projects\MedicionesService\MedicionesService\obj\Debug\MedicionesService.dll
+C:\Users\irene\Documents\Visual Studio 2013\Projects\MedicionesService\MedicionesService\obj\Debug\MedicionesService.pdb
+C:\Users\irene\Documents\Visual Studio 2013\Projects\MedicionesService\MedicionesService\obj\Debug\MedicionesService.csprojResolveAssemblyReference.cache
